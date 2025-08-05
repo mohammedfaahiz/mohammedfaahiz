@@ -67,7 +67,7 @@ A custom billing system using differential tariffs and real-time meter data
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/mohammedfaahiz)
 - 📨 Email: mohdfaahiz3565@gmail.com
 - 🌍 Mangalore, India
 
